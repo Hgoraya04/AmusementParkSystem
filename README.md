@@ -54,10 +54,8 @@ This project was developed as part of my Programming coursework at Lone Star Col
 4. Compile:  
    ```bash
    javac Visitor.java ticketSystem.java
-Run:
 
-bash
-Copy code
+Run:
 java Visitor
 
 **Documentation**
